@@ -1,0 +1,35 @@
+{
+  "name": "ejenta-challenge",
+  "version": "1.0.0",
+  "description": "Front-end coding challenge for Ejenta.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Angela Li",
+  "license": "ISC",
+  "dependencies": {
+    "highcharts": "^4.2.6",
+    "highcharts-more": "^0.1.2",
+    "highcharts-solid-gauge": "^0.1.2",
+    "json-loader": "^0.5.4",
+    "material-design-color": "^2.3.1",
+    "moment": "^2.14.1",
+    "promise": "^7.1.1",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "whatwg-fetch": "^1.0.0"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.10",
+    "css-loader": "^0.23.1",
+    "file-loader": "^0.9.0",
+    "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.22.0",
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
+    "source-map-loader": "^0.1.5",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^0.8.2",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

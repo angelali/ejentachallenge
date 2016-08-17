@@ -1,0 +1,72 @@
+{
+  "first_name": "Richard",
+  "last_name": "Lopez",
+  "start_weight_in_lbs": 179,
+  "weights": [
+    {
+      "weight_in_lbs": 179.1,
+      "timestamp": 1467648000000
+    },
+    {
+      "weight_in_lbs": 179.2,
+      "timestamp": 1467734400000
+    },
+    {
+      "weight_in_lbs": 179.6,
+      "timestamp": 1467820800000
+    },
+    {
+      "weight_in_lbs": 179.9,
+      "timestamp": 1467907200000
+    },
+    {
+      "weight_in_lbs": 179.1,
+      "timestamp": 1467993600000
+    },
+    {
+      "weight_in_lbs": 181.3,
+      "timestamp": 1468080000000
+    },
+    {
+      "weight_in_lbs": 182.1,
+      "timestamp": 1468166400000
+    }
+  ],
+  "activities": [
+    {
+      "minutes": 30,
+      "date": "07\/04\/16"
+    },
+    {
+      "minutes": 15,
+      "date": "07\/05\/16"
+    },
+    {
+      "minutes": 30,
+      "date": "07\/06\/16"
+    },
+    {
+      "minutes": 15,
+      "date": "07\/07\/16"
+    },
+    {
+      "minutes": 30,
+      "date": "07\/08\/16"
+    },
+    {
+      "minutes": 0,
+      "date": "07\/09\/16"
+    },
+    {
+      "minutes": 0,
+      "date": "07\/10\/16"
+    }
+  ],
+  "alerts": [
+    {
+      "timestamp": 1468080000000,
+      "text": "2 lb increase over 1d",
+      "category": "weight_change"
+    }
+  ]
+}

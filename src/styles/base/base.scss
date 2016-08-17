@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900);
+
+html,
+body {
+    margin: 0;
+}
+
+body {
+    color: $clr-grey-600;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialised;
+}
+
+h1 {
+    font-weight: 400;
+    margin: 0;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300;
+    margin: 0;
+}
+
+// Reset Highcharts ._____.
+
+.highcharts-container {
+    width: 100% !important;
+    height: 100% !important;
+}
